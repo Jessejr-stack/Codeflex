@@ -1,5 +1,5 @@
 Codeflex Team project
-UMAR  Home page
+Umar  Home page
 Jesse About us
 Nazir Blog page
 Ayyub Service page
