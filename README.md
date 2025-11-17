@@ -2,5 +2,5 @@ Codeflex Team project
 Umar  Home page
 Jesse About us
 Nazir Blog page
-Ayyub Service page
+Ayyub Services page
 Victor Cntact page
